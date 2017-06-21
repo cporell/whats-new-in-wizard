@@ -1,0 +1,17 @@
+{
+  "name": "whats-new-in-wizard",
+  "version": "0.0.1",
+  "description": "A website to get returning Wizard101 players back up to speed",
+  "private": true,
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Connor Porell",
+  "license": "ISC"
+}
